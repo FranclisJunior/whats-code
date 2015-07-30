@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorAccent">#536DFE</color>
+
+    <color name="colorFAB">@color/colorPrimary</color>
+    <color name="colorFABPressed">@color/colorPrimaryDark</color>
+
+
+    <color name = "stroke">#dddddd</color>
+    <color name = "white">#ffffff</color>
+    <color name = "black">#000000</color>
+
+    <color name = "light_grey">#d3d3d3</color>
+    <color name = "light_grey1">#f0f0f0</color>
+    <color name = "light_grey2">#f6f6f6</color>
+
+    <color name = "blue_500">#1976D2</color>
+    <color name = "blue_800">#1565C0</color>
+
+    <color name = "light_blue_500">#03A9F4</color>
+    <color name = "light_blue_800">#0277BD</color>
+
+    <color name = "cyan_500">#00BCD4</color>
+    <color name = "cyan_800">#00838F</color>
+
+    <color name = "teal_500">#009688</color>
+    <color name = "teal_800">#00695C</color>
+
+    <color name = "green_500">#4caf50</color>
+    <color name = "green_800">#2e7d32</color>
+
+    <color name = "light_green_500">#8BC34A</color>
+    <color name = "light_green_800">#558B2F</color>
+
+    <color name = "lime_500">#CDDC39</color>
+    <color name = "lime_800">#9E9D24</color>
+
+    <color name = "yellow_500">#FFEB3B</color>
+    <color name = "yellow_800">#FBC02D</color>
+
+    <color name = "amber_500">#FFC107</color>
+    <color name = "amber_800">#FF8F00</color>
+
+    <color name = "orange_500">#FF9800</color>
+    <color name = "orange_800">#EF6C00</color>
+
+    <color name = "deep_orange_500">#FF5722</color>
+    <color name = "deep_orange_800">#D84315</color>
+
+    <color name = "red_500">#f44336</color>
+    <color name = "red_800">#c62828</color>
+
+    <color name = "pink_500">#E91E63</color>
+    <color name = "pink_800">#AD1457</color>
+
+    <color name = "purple_500">#9C27B0</color>
+    <color name = "purple_800">#6A1B9A</color>
+
+    <color name = "deep_purple_500">#673AB7</color>
+    <color name = "deep_purple_800">#4527A0</color>
+
+    <color name = "blue_grey_500">#607D8B</color>
+    <color name = "blue_grey_800">#37474F</color>
+
+    <color name = "grey_200">#EEEEEE</color>
+    <color name = "grey_500">#9E9E9E</color>
+    <color name = "grey_600">#757575</color>
+    <color name = "grey_800">#424242</color>
+
+
+</resources>

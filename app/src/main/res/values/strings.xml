@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WhatsCode</string>
+    <string name="action_settings">Configuração</string>
+    <string name="title_activity_scan">ScanActivity</string>
+    <string name="title_dialog_scaner">Conversar no WhatsApp</string>
+    <string name="confirm_dialog_scaner">Adicionar</string>
+    <string name="cancel_dialog_scaner">Cancelar</string>
+    <string name="invalid_qrcode">Código Inválido</string>
+    <string name="wait">Aguarde</string>
+
+    <string name="scan_qrcode">Scanear Qrcode</string>
+    <string name="my_data_item">Meus Dados</string>
+    <string name="generate_qrcode">Gerar Qrcode</string>
+    <string name="share_qrcode">Compartilhar Qrcode</string>
+    <string name="title_activity_my_datas">MyDatasActivity</string>
+    
+    <string name="msg_no_information">Nenhum dado</string>
+    <string name="msg_erro">Aconteceu algo inesperado, tente novamente!</string>
+
+
+    <string name="information">Informação</string>
+    <string name="error">Erro</string>
+</resources>
